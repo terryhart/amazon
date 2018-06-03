@@ -1,0 +1,7 @@
+{
+  "name": "amazon",
+  "version": "1.0",
+  "useLocalCfg": true,
+  "LocalCfgName": "amazon.cfg",
+  "remoteip": "192.168.1.1"
+}
